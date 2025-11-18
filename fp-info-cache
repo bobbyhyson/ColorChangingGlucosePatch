@@ -1,4 +1,11 @@
-26772864350118541
+26783445464876224
+ATTINY204_SSFR
+SOIC14_SL_MCH
+
+ATTINY204-SSFR 
+0
+14
+14
 Audio_Module
 Reverb_BTDR-1H
 Digital Reverberation Unit, http://www.belton.co.kr/inc/downfile.php?seq=17&file=pdf (footprint from http://www.uk-electronic.de/PDF/BTDR-1.pdf)
@@ -62453,6 +62460,13 @@ GDT 3R-6
 0
 3
 3
+Glucose Meter
+Strip-Connector
+
+
+0
+6
+4
 Heatsink
 Heatsink_35x26mm_1xFixation3mm_Fischer-SK486-35
 Heatsink, 35mm x 26mm, 1x Fixation 3mm, Fischer SK486-35
@@ -70573,6 +70587,13 @@ Yellow 5381 Series LED
 0
 2
 2
+LMC6484AIN_NOPB-2
+DIP254P762X508-14
+
+
+0
+14
+14
 Module
 A20_OLINUXINO_LIME2
 A20 Olinuxino LIME2, 1.2GHz, 512-1024MB RAM, Micro-SD, NAND or eMMC, 1000Mbit Ethernet
@@ -106371,3 +106392,24 @@ Varistor VF
 0
 2
 2
+footprints
+D0014A_L
+
+CD4066BM96 
+0
+14
+14
+footprints
+D0014A_M
+
+CD4066BM96 
+0
+14
+14
+footprints
+D0014A_N
+
+CD4066BM96 
+0
+14
+14
