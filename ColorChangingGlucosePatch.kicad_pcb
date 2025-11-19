@@ -253,13 +253,13 @@
 		(descr "Capacitor SMD 0201 (0603 Metric), square (rectangular) end terminal, IPC-7351 nominal with elongated pad for handsoldering. (Body size source: https://www.vishay.com/docs/20052/crcw0201e3.pdf), generated with kicad-footprint-generator")
 		(tags "capacitor handsolder")
 		(property "Reference" "R7"
-			(at -0.0125 0.92 180)
+			(at -0.0275 -0.68 180)
 			(layer "F.SilkS")
 			(uuid "dd4a4105-7da3-40bb-9626-6446cfa57e96")
 			(effects
 				(font
-					(size 0.7 0.7)
-					(thickness 0.12)
+					(size 0.3 0.3)
+					(thickness 0.05)
 					(bold yes)
 				)
 			)
@@ -462,6 +462,7 @@
 			(at 0.475 -5.415 270)
 			(unlocked yes)
 			(layer "F.Fab")
+			(hide yes)
 			(uuid "2ec4c773-dc4e-4c8b-83bc-5953d480b93a")
 			(effects
 				(font
@@ -581,7 +582,7 @@
 			(uuid "c0e02384-e98d-40c8-a76c-d24586c63200")
 		)
 		(fp_text user "${REFERENCE}"
-			(at 0.285 5.32 270)
+			(at -0.96 5.04 270)
 			(unlocked yes)
 			(layer "F.Fab")
 			(uuid "1563ff4f-44b5-47c4-8bc4-6d12fb0ee3aa")
@@ -656,7 +657,7 @@
 		(at 87.394999 85.31 180)
 		(tags "CD4066BM96 ")
 		(property "Reference" "U7"
-			(at 0 -1.35 180)
+			(at -4.545001 0.49 90)
 			(unlocked yes)
 			(layer "F.SilkS")
 			(uuid "6d262404-66fa-440c-8591-f5d76f2c53ad")
@@ -2845,13 +2846,13 @@
 		(descr "Capacitor SMD 0201 (0603 Metric), square (rectangular) end terminal, IPC-7351 nominal with elongated pad for handsoldering. (Body size source: https://www.vishay.com/docs/20052/crcw0201e3.pdf), generated with kicad-footprint-generator")
 		(tags "capacitor handsolder")
 		(property "Reference" "R6"
-			(at -0.0775 0.84 0)
+			(at -0.0175 0.56 0)
 			(layer "F.SilkS")
 			(uuid "c85c5d56-2f1d-4775-a61a-9c7db1a2ec61")
 			(effects
 				(font
-					(size 0.7 0.7)
-					(thickness 0.12)
+					(size 0.3 0.3)
+					(thickness 0.05)
 					(bold yes)
 				)
 			)
@@ -3535,7 +3536,7 @@
 		(at 77.77 85.01 180)
 		(tags "ATTINY204-SSFR ")
 		(property "Reference" "U8"
-			(at 0 0 180)
+			(at -4.45 0.07 90)
 			(unlocked yes)
 			(layer "F.SilkS")
 			(uuid "9e08b486-80c5-4e6e-99b4-6dd639a4c4a4")
@@ -4144,13 +4145,13 @@
 		(descr "Capacitor SMD 0201 (0603 Metric), square (rectangular) end terminal, IPC-7351 nominal with elongated pad for handsoldering. (Body size source: https://www.vishay.com/docs/20052/crcw0201e3.pdf), generated with kicad-footprint-generator")
 		(tags "capacitor handsolder")
 		(property "Reference" "R8"
-			(at -0.11 0.9 0)
+			(at 1.2175 -0.05 0)
 			(layer "F.SilkS")
 			(uuid "a871d2d6-a294-4115-8298-368092db630d")
 			(effects
 				(font
-					(size 0.7 0.7)
-					(thickness 0.12)
+					(size 0.3 0.3)
+					(thickness 0.05)
 					(bold yes)
 				)
 			)
@@ -4340,13 +4341,13 @@
 		(descr "Capacitor SMD 0201 (0603 Metric), square (rectangular) end terminal, IPC-7351 nominal with elongated pad for handsoldering. (Body size source: https://www.vishay.com/docs/20052/crcw0201e3.pdf), generated with kicad-footprint-generator")
 		(tags "capacitor handsolder")
 		(property "Reference" "C3"
-			(at 1.67 -0.1 90)
+			(at -0.03 0.58 90)
 			(layer "F.SilkS")
 			(uuid "8e7a30df-29c2-45dc-b241-7e36a377490d")
 			(effects
 				(font
-					(size 0.7 0.7)
-					(thickness 0.12)
+					(size 0.3 0.3)
+					(thickness 0.05)
 					(bold yes)
 				)
 			)
