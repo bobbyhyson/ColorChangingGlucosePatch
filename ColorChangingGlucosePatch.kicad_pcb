@@ -4476,6 +4476,17 @@
 			(uuid "4a193d5b-8f49-442d-ae9b-eb6fa74a8830")
 		)
 		(embedded_fonts no)
+		(model "${KIPRJMOD}/Custom Libraries/CD4066BM96/KiCADv6/footprints.pretty/D0014A.stp"
+			(offset
+				(xyz 0 0 0)
+			)
+			(scale
+				(xyz 1 1 1)
+			)
+			(rotate
+				(xyz 0 0 0)
+			)
+		)
 	)
 	(footprint "TPS76925DBVR-2:SOT95P280X145-5N"
 		(layer "F.Cu")
