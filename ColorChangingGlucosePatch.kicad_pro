@@ -38,8 +38,8 @@
         "other_text_upright": false,
         "pads": {
           "drill": 0.0,
-          "height": 0.85,
-          "width": 2.65
+          "height": 0.93,
+          "width": 0.81
         },
         "silk_line_width": 0.1,
         "silk_text_italic": false,
@@ -52,7 +52,32 @@
         }
       },
       "diff_pair_dimensions": [],
-      "drc_exclusions": [],
+      "drc_exclusions": [
+        [
+          "annular_width|80880000|73785000|c0acb1af-f013-49a9-b50e-578c62058141|00000000-0000-0000-0000-000000000000",
+          ""
+        ],
+        [
+          "annular_width|85440000|73785000|9a6f7396-8e81-42f8-919c-9995f9131f79|00000000-0000-0000-0000-000000000000",
+          ""
+        ],
+        [
+          "malformed_courtyard|87394999|84810001|5717ab26-0b1a-467c-86c3-aeb2187e107f|00000000-0000-0000-0000-000000000000",
+          ""
+        ],
+        [
+          "malformed_courtyard|87895001|85310000|5717ab26-0b1a-467c-86c3-aeb2187e107f|00000000-0000-0000-0000-000000000000",
+          ""
+        ],
+        [
+          "padstack|80880000|73785000|c0acb1af-f013-49a9-b50e-578c62058141|00000000-0000-0000-0000-000000000000",
+          ""
+        ],
+        [
+          "padstack|85440000|73785000|9a6f7396-8e81-42f8-919c-9995f9131f79|00000000-0000-0000-0000-000000000000",
+          ""
+        ]
+      ],
       "meta": {
         "version": 2
       },
@@ -560,12 +585,72 @@
           "label": "Datasheet",
           "name": "Datasheet",
           "show": true
+        },
+        {
+          "group_by": false,
+          "label": "DESCRIPTION",
+          "name": "DESCRIPTION",
+          "show": false
+        },
+        {
+          "group_by": false,
+          "label": "MF",
+          "name": "MF",
+          "show": false
+        },
+        {
+          "group_by": false,
+          "label": "MP",
+          "name": "MP",
+          "show": false
+        },
+        {
+          "group_by": false,
+          "label": "PACKAGE",
+          "name": "PACKAGE",
+          "show": false
+        },
+        {
+          "group_by": false,
+          "label": "PRICE",
+          "name": "PRICE",
+          "show": false
+        },
+        {
+          "group_by": false,
+          "label": "PURCHASE-URL",
+          "name": "PURCHASE-URL",
+          "show": false
+        },
+        {
+          "group_by": false,
+          "label": "Sim.Pins",
+          "name": "Sim.Pins",
+          "show": false
+        },
+        {
+          "group_by": false,
+          "label": "AVAILABILITY",
+          "name": "AVAILABILITY",
+          "show": false
+        },
+        {
+          "group_by": false,
+          "label": "Description",
+          "name": "Description",
+          "show": false
+        },
+        {
+          "group_by": false,
+          "label": "#",
+          "name": "${ITEM_NUMBER}",
+          "show": false
         }
       ],
       "filter_string": "",
       "group_symbols": true,
       "include_excluded_from_bom": true,
-      "name": "Default Editing",
+      "name": "",
       "sort_asc": true,
       "sort_field": "Reference"
     },

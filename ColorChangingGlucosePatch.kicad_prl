@@ -50,7 +50,7 @@
       "conflict_shadows",
       "shapes"
     ],
-    "visible_layers": "ffffffff_ffffffff_ffffffff_ffffffff",
+    "visible_layers": "ffffffff_ffffffff_fffffffd_dfff7777",
     "zone_display_mode": 0
   },
   "git": {
@@ -88,7 +88,6 @@
       9
     ],
     "col_widths": [
-<<<<<<< HEAD
       162,
       147,
       91,
@@ -99,18 +98,6 @@
       71,
       91,
       91
-=======
-      156,
-      141,
-      103,
-      71,
-      103,
-      103,
-      103,
-      74,
-      103,
-      103
->>>>>>> 4d02f7d (did i just fuck shit up?)
     ],
     "custom_group_rules": [],
     "expanded_rows": [],
