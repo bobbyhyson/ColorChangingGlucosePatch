@@ -7474,7 +7474,7 @@
 				(justify right)
 			)
 		)
-		(property "Footprint" "LTST_C190YKT-2:LEDC1608X35N"
+		(property "Footprint" ""
 			(at 273.05 153.67 0)
 			(effects
 				(font
